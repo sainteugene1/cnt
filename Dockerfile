@@ -5,3 +5,4 @@ From tomcat:8-jre8
 MAINTAINER "kserge2001@yahoo.fr" 
 COPY webapp/target/cnt.war /usr/local/tomcat/webapps
 
+#COPY  webapp/target/cnt.war /usr/local/tomcat/webapps
